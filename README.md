@@ -4,7 +4,7 @@ Welcome to my github profile.
 I'm currently working on python and javascript and trying to learn. To support me, you can send your simple projects via mail.
 
 ```bash
-For reach me : bcguller@gmail.com
+For reach me : contact@berkcanguller.com
 ```
 
 ## For Solidarity
